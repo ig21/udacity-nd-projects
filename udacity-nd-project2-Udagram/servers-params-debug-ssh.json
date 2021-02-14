@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramProject"
+    },
+    {
+        "ParameterKey": "KeyName",
+        "ParameterValue": "Udacity"
+    },
+    {
+        "ParameterKey": "S3BucketName",
+        "ParameterValue": "udagram-inna"
+    } ,
+    {
+        "ParameterKey": "S3UdagramZip",
+        "ParameterValue": "udagram.zip"
+    } 
+]
